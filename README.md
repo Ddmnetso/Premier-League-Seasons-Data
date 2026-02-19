@@ -1,5 +1,8 @@
 # Premier-League-Seasonal-Data
 Report on win/loss ratio ,average goals per season, total goals scored per season of various Premier Leage teams from years 1993-2024.
+
+![image alt](https://github.com/Ddmnetso/Premier-League-Seasons-Data/blob/eed2793f2127fa9a03f689bfd0b00d49fe63e5d9/Screenshot%202026-02-19%20231144.png)
+
 # Overview
 This Power BI report evaluates the following:
 Question: Has scoring distribution changed over the last 20 seasons?
